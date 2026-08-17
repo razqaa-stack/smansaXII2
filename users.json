@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "kelas": "XII.2",
+    "jumlah_siswa": 35,
+    "updated": "2026-08-17T08:19:17.516Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549874,
+      "nama": "AIRA TU RAHMA",
+      "nohp": "085669011906",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549875,
+      "nama": "ALICEA CHASTELLO",
+      "nohp": "087890919507",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549876,
+      "nama": "ALIF RAFIIFUL AZIZ",
+      "nohp": "089516696990",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549877,
+      "nama": "ANISA NANDA",
+      "nohp": "082391620585",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549878,
+      "nama": "ARADA AISYAH DAMIA",
+      "nohp": "089512511999",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549879,
+      "nama": "ARSYAD",
+      "nohp": "081266713779",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549880,
+      "nama": "DAVINA ALUNA PARAMOJA",
+      "nohp": "082213090611",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549881,
+      "nama": "DIKA RAFAEL",
+      "nohp": "082173212257",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549882,
+      "nama": "FADHLULLAH VERY SMART",
+      "nohp": "-",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549883,
+      "nama": "FADILATUL HUSMA",
+      "nohp": "081365978002",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549884,
+      "nama": "FERNANDES GUSTIANUS",
+      "nohp": "083180462409",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549885,
+      "nama": "GHITSAA ERVI AGUSTINA",
+      "nohp": "082387358098",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549886,
+      "nama": "GUSTI ABIANDRA SHAH ALAM",
+      "nohp": "081348554898",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549887,
+      "nama": "HABIBAH AL HUSNA",
+      "nohp": "085363361914",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549888,
+      "nama": "HISAAM SATRIA HARDES",
+      "nohp": "085330887721",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549889,
+      "nama": "KHANZA AMANDA WIJAYA",
+      "nohp": "083186213551",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549890,
+      "nama": "KHARISA PUTRI",
+      "nohp": "081261260651",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549891,
+      "nama": "KURNIA FAJRI",
+      "nohp": "089636744554",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549892,
+      "nama": "LUTHFI AURELIA PUTRI",
+      "nohp": "08127564805",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549893,
+      "nama": "MUHAMMAD ALVI PRATAMA",
+      "nohp": "083813040351",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549894,
+      "nama": "MUHAMMAD BANYU SHAKKA ZHANYA",
+      "nohp": "082298117024",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549895,
+      "nama": "MUHAMMAD DZAKI ARIF",
+      "nohp": "083145218833",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549896,
+      "nama": "MUHAMMAD HAIKAL HAKIMI",
+      "nohp": "082268374091",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549897,
+      "nama": "MUHAMMAD IHSAN",
+      "nohp": "081533126831",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549898,
+      "nama": "MUHAMMAD RAHLIL",
+      "nohp": "082387273863",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549899,
+      "nama": "NAILA FATIHATUN",
+      "nohp": "085264824827",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549900,
+      "nama": "NASYLA GHASSANI AYUFI",
+      "nohp": "-",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549901,
+      "nama": "NAURA AYU ASHILA",
+      "nohp": "083167610512",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549902,
+      "nama": "NUR'AINI",
+      "nohp": "081283897665",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549903,
+      "nama": "NURLELI SELIANTI",
+      "nohp": "082286905873",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549904,
+      "nama": "PUTRI ZAHRA EDYANANDA",
+      "nohp": "081266043443",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549905,
+      "nama": "RAHIL AGUSTISYA",
+      "nohp": "081363485229",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549906,
+      "nama": "SUCI RAMADANI",
+      "nohp": "082173218907",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549907,
+      "nama": "ZACKY FIRDAUS",
+      "nohp": "085766177781",
+      "kelas": "XII.2"
+    },
+    {
+      "id": 1786954549908,
+      "nama": "ZULFIKRI NURMADHANI",
+      "nohp": "081383681283",
+      "kelas": "XII.2"
+    }
+  ]
+}
